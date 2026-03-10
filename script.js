@@ -7,7 +7,7 @@
    1. CONFIGURAÇÃO GERAL
    ========================================= */
 // ✅ Apenas números (sem +, sem espaços)
-const whatsappNumber = "1151042748";
+const whatsappNumber = "11972764015";
 
 // Mensagem padrão
 const defaultMessage = "Olá, gostaria de iniciar meu atendimento.";
@@ -421,4 +421,5 @@ window.handleLogin = handleLogin;
 window.scrollToTop = scrollToTop;
 window.changeSlide = changeSlide;
 window.acceptCookies = acceptCookies;
+
 
